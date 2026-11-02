@@ -154,3 +154,7 @@ The initial phrase contains eight beats (two bars), looped as a generated audio
 buffer. This is an exploratory browser implementation, not a finished artwork.
 No tracker import, 3D engine, model inference or native executable yet.
 Next: browser/audio QA, richer original choreography and a longer composition.
+
+## Entwicklung und Übergabe
+
+[AGENTS.md](AGENTS.md) bündelt den Einstieg für Entwickler und KI-Agenten; [TESTING.md](TESTING.md) nennt reproduzierbare Prüfungen und deren Grenzen. Der aktuelle Übergabestand steht in [HANDOFF.md](HANDOFF.md).
